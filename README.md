@@ -5,7 +5,7 @@ This guide will walk you through the process of using BrainPy with Binder, an on
 ## Step 1: Launch Binder Environment
 Click on the following link to launch the Binder environment with the BrainPy repository: 
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brainpy/BrainPy-binder/main)
 
 Wait for the Binder environment to build. This might take a few moments.
 
