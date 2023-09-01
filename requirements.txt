@@ -1,10 +1,11 @@
-numpy
+numpy 
 tqdm
 msgpack
 matplotlib>=3.4
 jax>=0.4.1
 jaxlib>=0.4.1
 scipy>=1.1.0
+brainpy
 brainpylib
 h5py
 pathos
