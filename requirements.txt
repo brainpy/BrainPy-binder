@@ -7,6 +7,7 @@ jaxlib>=0.4.1
 scipy>=1.1.0
 brainpy
 brainpylib
+brainpy_datasets
 h5py
 pathos
 
